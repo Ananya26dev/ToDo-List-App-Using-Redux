@@ -9,6 +9,8 @@ Toggle Completion: Mark tasks as completed or incomplete.
 Filter Tasks: View tasks based on their completion status.
 Search Functionality: Quickly find tasks by searching with keywords.
 Responsive Design: Tailwind CSS ensures a visually appealing and responsive design across all devices.
+
+
 Tech Stack:
 
 React JS: For building the user interface and managing component states.
